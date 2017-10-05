@@ -6,8 +6,6 @@ jdk:
   - openjdk7
 
 install: true
-script:
-  - ./mvnw clean install
 
 cache:
   directories:
